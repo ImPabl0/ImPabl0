@@ -5,7 +5,7 @@
 
 - 🌱 Estou estudando **JS, Flutter e C++**
 
-- 📫 Pode falar comigo **leftgame7@gmail.com**
+- 📫 Pode falar comigo **pablo5san5@gmail.com**
 
 <h3 align="left">Se conecte comigo:</h3>
 <p align="left">
