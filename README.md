@@ -1,9 +1,9 @@
 <h1 align="center">Oi! 👋, Eu sou o Pablo</h1>
 <h3 align="center">Sou apaixonado em criar softwares que ajudem e levem praticidade às outras pessoas</h3>
 
-- 🔭 Atualmente estou desenvolvendo [um Bot para compras no Discord](https://github.com/ImPabl0/Discord-Economy-Bot)
+- 🔭 Atualmente estou desenvolvendo [um aplicativo para organizar pedidos de delivery](https://github.com/ImPabl0/lembrete-cakes)
 
-- 🌱 Estou estudando **JS, Flutter e C++**
+- 🌱 Estou estudando **Java, Flutter e C++**
 
 - 📫 Pode falar comigo **pablo5san5@gmail.com**
 
