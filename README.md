@@ -1,7 +1,7 @@
 <h1 align="center">Oi! 👋, Eu sou o Pablo</h1>
 <h3 align="center">Sou apaixonado em criar softwares que ajudem e levem praticidade às outras pessoas</h3>
 
-- 🔭 Atualmente estou desenvolvendo [um aplicativo para organizar pedidos de delivery](https://github.com/ImPabl0/lembrete-cakes)
+- 🔭 Atualmente estou desenvolvendo [um aplicativo para organizar pedidos de confeitarias](https://github.com/ImPabl0/lembrete-cakes)
 
 - 🌱 Estou estudando **Java, Flutter e C++**
 
