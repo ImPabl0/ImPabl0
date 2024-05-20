@@ -1,4 +1,5 @@
 <h1 align="center">Oi! 👋, Eu sou o Pablo</h1>
+<a href="https://wakatime.com/@b3308d1b-0f78-4e81-b970-e6ca9567277a"><img src="https://wakatime.com/badge/user/b3308d1b-0f78-4e81-b970-e6ca9567277a.svg" alt="Total time coded since Mar 16 2023" /></a>
 <h3 align="center">Sou apaixonado em criar softwares que ajudem e levem praticidade às outras pessoas</h3>
 
 - 🔭 Atualmente estou desenvolvendo [um aplicativo para organizar pedidos de confeitarias](https://github.com/ImPabl0/lembrete-cakes)
