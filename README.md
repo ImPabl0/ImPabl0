@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente estou desenvolvendo [um aplicativo para organizar pedidos de confeitarias](https://github.com/ImPabl0/lembrete-cakes)
 
-- 🌱 Estou estudando **Java, Flutter e C++**
+- 🌱 Estou estudando **Java, Flutter**
 
 - 📫 Pode falar comigo **pablo5san5@gmail.com**
 
